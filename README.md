@@ -9,7 +9,7 @@
 2. Install HMMER (http://hmmer.org/)
 3. Install **Matryoshka** via this command:
 
-    `git clone https://github.com/CarrollNew/Matryoshka`
+    git clone https://github.com/CarrollNew/Matryoshka
 
 
 ## 2. Running of Matryoshka

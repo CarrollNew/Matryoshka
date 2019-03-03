@@ -9,14 +9,14 @@
 2. Install HMMER (http://hmmer.org/)
 3. Install **Matryoshka** via this command:
 
-    git clone https://github.com/CarrollNew/Matryoshka
+    `git clone https://github.com/CarrollNew/Matryoshka`
 
 
 ## 2. Running of Matryoshka
 
 For running **Matryoshka** you should upload the reference genome of bacteria you interested in fasta format to main directory and run script via this command:
 
-    `bash everything.sh <reference_bacterial_genome.fasta>`
+    bash everything.sh <reference_bacterial_genome.fasta>
 
 After this procedure program will generate output files:
 

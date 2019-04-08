@@ -1,3 +1,6 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import time
 from itertools import zip_longest, islice
 import sys
